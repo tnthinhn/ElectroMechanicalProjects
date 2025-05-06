@@ -1,0 +1,10 @@
+proepview 10.1.0 - Build: parametric11000 20.1.0.0-PDUNS1 x86e_win64
+Copyright (C) 2000-2023 PTC Inc. All Rights Reserved.
+
+Recipe file: C:/Program Files/PTC/Creo 11.0.1.0/Common Files/text/prodview/export_pvs.rcp
+Source file: C:/Users/tnthi/Desktop/carpartimages/ccreaderholder.prt.7
+Output file: C:/Users/tnthi/AppData/Local/Temp/ys4am3bw/ccreaderholder.pvs
+Processing ccreaderholder.prt : proepview Warning: Failed to get gtol placement from Pro/E configuration file
+COMPLETE
+Getting Mass Properties : COMPLETE
+Generating Output : COMPLETE
